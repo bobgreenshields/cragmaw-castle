@@ -1,17 +1,13 @@
 ---
 layout: area
-title: "Trapped hall"
-number: 2
-description: "The castle's main foyer"
+title: "Banquet hall"
+number: 7
+description: "Goblin mess hall"
 categories: area
 player_images:
 leads_to:
-  - 1
-  - 3
   - 4
-  - 5
-  - 8
-  - 18
+  - 16
 ---
 
 

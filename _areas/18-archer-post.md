@@ -1,17 +1,12 @@
 ---
 layout: area
-title: "Trapped hall"
-number: 2
-description: "The castle's main foyer"
+title: "Archer post"
+number: 18
+description: "Sentry post"
 categories: area
 player_images:
 leads_to:
-  - 1
-  - 3
-  - 4
-  - 5
-  - 8
-  - 18
+  - 2
 ---
 
 

@@ -1,17 +1,14 @@
 ---
 layout: area
-title: "Trapped hall"
-number: 2
-description: "The castle's main foyer"
+title: "Lower corridor"
+number: 16
+description: "The lower corridor"
 categories: area
 player_images:
 leads_to:
-  - 1
-  - 3
-  - 4
-  - 5
-  - 8
-  - 18
+  - 7
+  - 10
+  - 15
 ---
 
 

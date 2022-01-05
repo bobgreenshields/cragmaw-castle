@@ -1,17 +1,14 @@
 ---
 layout: area
-title: "Trapped hall"
-number: 2
-description: "The castle's main foyer"
+title: "Ruined tower"
+number: 11
+description: "A tower with a tumble down wall"
 categories: area
 player_images:
 leads_to:
-  - 1
-  - 3
-  - 4
-  - 5
-  - 8
-  - 18
+  - 0
+  - 15
+  - 17
 ---
 
 

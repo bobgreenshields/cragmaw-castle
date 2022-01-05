@@ -1,10 +1,50 @@
 a:
   pp: "9"
   loot: ""
-  desc: "2 Goblins"
+  desc: "2 goblins"
 
 b:
   pp: "9"
   loot: ""
-  desc: "3 Goblins"
+  desc: "3 goblins"
+
+c:
+  pp: "10"
+  loot: "25 sp"
+  desc: "4 hobgoblins"
+
+d:
+  pp: "10"
+  loot: ""
+  desc: "7 goblins"
+
+e:
+  pp: "10"
+  loot: ""
+  desc: "2 goblin acolytes"
+
+f:
+  pp: "10"
+  loot: ""
+  desc: "2 hobgoblins"
+
+g:
+  pp: "9"
+  loot: ""
+  desc: "2 goblins"
+
+grick:
+  pp: "12"
+  loot: ""
+  desc: "Grick"
+
+lhupo:
+  pp: "10"
+  loot: ""
+  desc: "goblin priest"
+
+yegg:
+  pp: "10"
+  loot: ""
+  desc: "goblin chief cook"
 

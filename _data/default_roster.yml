@@ -6,3 +6,35 @@
   area: 4
   notes: "Bunking"
 
+- mob: c
+  area: 6
+  notes: ""
+
+- mob: d
+  area: 7
+  notes: "working for Yegg"
+
+- mob: e
+  area: 9
+  notes: "Praying with Lhupo"
+
+- mob: f
+  area: 12
+  notes: "Resting up"
+
+- mob: g
+  area: 18
+  notes: "Guarding keep entrance"
+
+- mob: grick
+  area: 8
+  notes: "Hidden amongst shadows in ceiling"
+
+- mob: lhupo
+  area: 9
+  notes: "Praying to Maglubiyet"
+
+- mob: yegg
+  area: 7
+  notes: "bullying assistants"
+

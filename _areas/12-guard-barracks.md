@@ -1,17 +1,14 @@
 ---
 layout: area
-title: "Trapped hall"
-number: 2
-description: "The castle's main foyer"
+title: "Guard barracks"
+number: 12
+description: "Hobgoblin barracks"
 categories: area
 player_images:
 leads_to:
-  - 1
-  - 3
-  - 4
-  - 5
-  - 8
-  - 18
+  - 13
+  - 15
+  - 17
 ---
 
 
