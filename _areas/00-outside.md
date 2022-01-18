@@ -13,6 +13,6 @@ leads_to:
 
 
 [**Wis (Perception) check**]({{ site.baseurl }}{% link party.md %})
-* DC 18 something hidden
-* DC 10 something obvious
+* DC 18 the canvas curtain hiding the breach in the wall
+* DC 12 the passage in the undergrowth to the postern
 
