@@ -43,6 +43,11 @@ lhupo:
   loot: ""
   desc: "goblin priest"
 
+owlbear:
+  pp: "13"
+  loot: ""
+  desc: "owlbear"
+
 yegg:
   pp: "10"
   loot: ""

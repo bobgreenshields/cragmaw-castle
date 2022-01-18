@@ -34,6 +34,10 @@
   area: 9
   notes: "Praying to Maglubiyet"
 
+- mob: owlbear
+  area: 13
+  notes: "rears up and roars"
+
 - mob: yegg
   area: 7
   notes: "bullying assistants"
