@@ -6,6 +6,7 @@ description: "A side entrance to the castle"
 categories: area
 player_images:
 leads_to:
+  - 0
   - 16
 ---
 
