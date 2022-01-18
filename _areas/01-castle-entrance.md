@@ -10,8 +10,5 @@ leads_to:
   - 2
 ---
 
-
 [**Wis (Perception) check**]({{ site.baseurl }}{% link party.md %})
-* DC 18 something hidden
-* DC 10 something obvious
-
+* DC 23 hear the sentries in area 3 and 18

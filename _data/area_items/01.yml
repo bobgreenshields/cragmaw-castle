@@ -1,4 +1,12 @@
+- title: "Stealth check"
+  desc: |-
+    If the pcs are quiet and attempting to be stealthy they need to make a DC 12 check to avoid being noticed by the sentries in areas 3 and 18.
+
 - title: "Collapsed gates"
   desc: |-
-    The main gates between areas 1 and 2 are made of bronzr covered wood but they are corroded and collapsed.
+    The main gates between areas 1 and 2 are made of bronze covered wood but they are corroded and collapsed.
+
+- title: "Arrow slits"
+  desc: |-
+    Arrow slits look down on this area from just above head height.
 
