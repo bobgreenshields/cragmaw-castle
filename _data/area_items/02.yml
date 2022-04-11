@@ -4,9 +4,13 @@
 
 - title: "Rubble on floor"
   desc: |-
-    The corridor is cluttered with dusty rubble and fallen plaster from a parial collapse of the ceiling overhead.
+    The corridor is cluttered with dusty rubble and fallen plaster from a partial collapse of the ceiling overhead.
 
 - title: "Unsafe ceiling"
   desc: |-
-    The ceiling has already partially collapsed and what is left looks unsteady.
+    The part of the ceiling has already collapsed and what is left looks unsteady.
+
+- title: "South door"
+  desc: |-
+    Goblin voices can be heard beyond the south door.  They are complaining and moaning about Lhurusk and how the hobgoblins rule over the poor goblins when it is really Grol that is king.  If the additional voices are heard faint clinking sounds from the pots and pans will also be heard.
 
