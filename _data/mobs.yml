@@ -1,7 +1,7 @@
 a:
   pp: "9"
   loot: ""
-  desc: "2 goblins"
+  desc: "2 hobgoblin arbelesters"
 
 b:
   pp: "9"
@@ -33,10 +33,20 @@ g:
   loot: ""
   desc: "2 goblins"
 
+glasstaff:
+  pp: "11"
+  loot: ""
+  desc: "former Redbrand leader, evil mage"
+
 grick:
   pp: "12"
   loot: ""
   desc: "Grick"
+
+grol:
+  pp: "10"
+  loot: ""
+  desc: "King Grol, a bugbear"
 
 lhupo:
   pp: "10"
@@ -47,6 +57,16 @@ owlbear:
   pp: "13"
   loot: ""
   desc: "owlbear"
+
+snarl:
+  pp: "13"
+  loot: ""
+  desc: "Grol's pet wolf"
+
+vyerith:
+  pp: "11"
+  loot: ""
+  desc: "Doppleganger posing as female Drow"
 
 yegg:
   pp: "10"

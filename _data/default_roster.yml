@@ -26,9 +26,17 @@
   area: 18
   notes: "Guarding keep entrance"
 
+- mob: glasstaff
+  area: 14
+  notes: ""
+
 - mob: grick
   area: 8
   notes: "Hidden amongst shadows in ceiling"
+
+- mob: grol
+  area: 14
+  notes: ""
 
 - mob: lhupo
   area: 9
@@ -37,6 +45,14 @@
 - mob: owlbear
   area: 13
   notes: "rears up and roars"
+
+- mob: snarl
+  area: 14
+  notes: ""
+
+- mob: vyerith
+  area: 14
+  notes: ""
 
 - mob: yegg
   area: 7
