@@ -10,6 +10,10 @@
   area: 6
   notes: ""
 
+- mob: chef
+  area: 7
+  notes: "irascible and shouty"
+
 - mob: d
   area: 7
   notes: "working for Yegg"
@@ -37,6 +41,14 @@
 - mob: grol
   area: 14
   notes: ""
+
+- mob: h
+  area: 14
+  notes: "acting as Grol's guards"
+
+- mob: hamun
+  area: 14
+  notes: "negotiating"
 
 - mob: lhupo
   area: 9

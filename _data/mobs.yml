@@ -13,10 +13,15 @@ c:
   loot: "25 sp"
   desc: "4 hobgoblins"
 
+chef:
+  pp: "10"
+  loot: ""
+  desc: "goblin chef"
+
 d:
   pp: "10"
   loot: ""
-  desc: "7 goblins"
+  desc: "5 goblins"
 
 e:
   pp: "10"
@@ -48,6 +53,16 @@ grol:
   loot: ""
   desc: "King Grol, a bugbear"
 
+h:
+  pp: "10"
+  loot: ""
+  desc: "2 goblins"
+
+hamun:
+  pp: "12"
+  loot: ""
+  desc: "Hamun Kost, necromancer"
+
 lhupo:
   pp: "10"
   loot: ""
@@ -66,7 +81,7 @@ snarl:
 vyerith:
   pp: "11"
   loot: ""
-  desc: "Doppleganger posing as female Drow"
+  desc: "Drow female (Doppelganger)"
 
 yegg:
   pp: "10"
