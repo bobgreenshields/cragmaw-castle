@@ -11,8 +11,9 @@ leads_to:
   - 9
 ---
 
-
 [**Wis (Perception) check**]({{ site.baseurl }}{% link party.md %})
-* DC 18 something hidden
-* DC 10 something obvious
+* DC 14 hear voices beyond the west door
+
+[**Int (Investigation) check**]({{ site.baseurl }}{% link party.md %})
+* DC 12 the bedrolls are not for goblinoids, it appears that they are being used by humans
 
