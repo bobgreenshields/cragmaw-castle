@@ -15,4 +15,5 @@ leads_to:
 [**Wis (Perception) check**]({{ site.baseurl }}{% link party.md %})
 * DC 18 the canvas curtain hiding the breach in the wall
 * DC 12 the passage in the undergrowth to the postern
+* DC 14 hobgoblin voices can be heard outside the arrow slit to room 6
 
