@@ -9,8 +9,4 @@ leads_to:
   - 17
 ---
 
-
-[**Wis (Perception) check**]({{ site.baseurl }}{% link party.md %})
-* DC 18 something hidden
-* DC 10 something obvious
-
+Grol is "negotiating" with Hamun Kost and Glasstaff.  Glasstaff maitains that the Black Spider already had a deal for the dwarf but Grol is using Hamun's offer to get Gallstaff to pay up if he wants the dwarf.
