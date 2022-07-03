@@ -11,4 +11,4 @@ leads_to:
 ---
 
 [**Wis (Perception) check**]({{ site.baseurl }}{% link party.md %})
-* DC 23 hear the sentries in area 3 and 18
+* DC 23 hear the sentries in area 18

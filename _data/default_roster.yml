@@ -6,13 +6,13 @@
   area: 4
   notes: "Bunking"
 
+- mob: biish
+  area: 12
+  notes: "second in command"
+
 - mob: c
   area: 6
   notes: ""
-
-- mob: chef
-  area: 7
-  notes: "irascible and shouty"
 
 - mob: d
   area: 7
@@ -23,8 +23,8 @@
   notes: "Praying with Lhupo"
 
 - mob: f
-  area: 12
-  notes: "Resting up"
+  area: 14
+  notes: "guard for Grol"
 
 - mob: g
   area: 18
@@ -42,10 +42,6 @@
   area: 14
   notes: ""
 
-- mob: h
-  area: 14
-  notes: "acting as Grol's guards"
-
 - mob: hamun
   area: 14
   notes: "negotiating"
@@ -53,6 +49,10 @@
 - mob: lhupo
   area: 9
   notes: "Praying to Maglubiyet"
+
+- mob: lhurusk
+  area: 12
+  notes: ""
 
 - mob: owlbear
   area: 13
@@ -68,5 +68,5 @@
 
 - mob: yegg
   area: 7
-  notes: "bullying assistants"
+  notes: "bullying assistants, shouting"
 

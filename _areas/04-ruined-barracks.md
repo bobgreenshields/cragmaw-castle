@@ -10,8 +10,4 @@ leads_to:
   - 7
 ---
 
-
-[**Wis (Perception) check**]({{ site.baseurl }}{% link party.md %})
-* DC 18 something hidden
-* DC 10 something obvious
-
+Unlike the hobgolin barracks this room is messy, with bones and scraps of food strewn near to the bed rolls.

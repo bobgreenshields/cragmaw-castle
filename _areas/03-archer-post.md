@@ -9,8 +9,5 @@ leads_to:
   - 2
 ---
 
-
-[**Wis (Perception) check**]({{ site.baseurl }}{% link party.md %})
-* DC 18 something hidden
-* DC 10 something obvious
-
+* The hobgoblin guards are quiet, attentive and alert.
+* They have a horn for raising the alarm.

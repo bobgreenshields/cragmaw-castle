@@ -1,46 +1,46 @@
 a:
-  pp: "9"
-  loot: ""
+  pp: "13"
+  loot: "35 sp 28 cp"
   desc: "2 hobgoblin arbelesters"
 
 b:
   pp: "9"
-  loot: ""
+  loot: "2 sp 21 cp"
   desc: "3 goblins"
 
-c:
-  pp: "10"
-  loot: "25 sp"
-  desc: "4 hobgoblins"
+biish:
+  pp: "12"
+  loot: "12 gp 45 sp 130 gem"
+  desc: "hobgoblin soldier"
 
-chef:
-  pp: "10"
-  loot: ""
-  desc: "goblin chef"
+c:
+  pp: "12"
+  loot: "65 sp 73 cp"
+  desc: "4 hobgoblin warriors"
 
 d:
-  pp: "10"
-  loot: ""
-  desc: "5 goblins"
+  pp: "9"
+  loot: "5 sp 38 cp"
+  desc: "7 goblins"
 
 e:
-  pp: "10"
-  loot: ""
+  pp: "9"
+  loot: "12 cp"
   desc: "2 goblin acolytes"
 
 f:
-  pp: "10"
-  loot: ""
-  desc: "2 hobgoblins"
+  pp: "9"
+  loot: "2 sp 13 cp"
+  desc: "2 goblins"
 
 g:
   pp: "9"
-  loot: ""
-  desc: "2 goblins"
+  loot: "2 sp 14 cp"
+  desc: "2 goblin archers"
 
 glasstaff:
   pp: "11"
-  loot: ""
+  loot: "see page"
   desc: "former Redbrand leader, evil mage"
 
 grick:
@@ -53,20 +53,20 @@ grol:
   loot: ""
   desc: "King Grol, a bugbear"
 
-h:
-  pp: "10"
-  loot: ""
-  desc: "2 goblins"
-
 hamun:
-  pp: "12"
-  loot: ""
+  pp: "11"
+  loot: "chest 250 gp 430 gems"
   desc: "Hamun Kost, necromancer"
 
 lhupo:
-  pp: "10"
+  pp: "9"
+  loot: "14 cp, small statuette 12gp?"
+  desc: "goblin priest, small battleaxe"
+
+lhurusk:
+  pp: "13"
   loot: ""
-  desc: "goblin priest"
+  desc: "hobgoblin centurion"
 
 owlbear:
   pp: "13"
@@ -84,7 +84,7 @@ vyerith:
   desc: "Drow female (Doppelganger)"
 
 yegg:
-  pp: "10"
-  loot: ""
+  pp: "9"
+  loot: "15 sp 26 cp 25 gems"
   desc: "goblin chief cook"
 

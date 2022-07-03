@@ -24,4 +24,4 @@ leads_to:
 
 The plaster and rubble in front of the door conceals a copper tripwire connected to linchpins hidden in the ruined ceiling.  If spotted the tripwire is easily avoided and disarmed (no check needed).
 
-Walkin through the rubble w/o avoiding the tripwire will trigger a cave in of wooden beams and heavy stones.  Any creature in the area takes 3d6 bludgeoning damage [DC 10 Dex Sv]({{ site.baseurl }}{% link party.md %}) for half.  The noise will alert monsters in 3, 7, 8, 9 & 18.
+Walking through the rubble w/o avoiding the tripwire will trigger a cave in of wooden beams and heavy stones.  Any creature in the area takes 3d6 bludgeoning damage [DC 10 Dex Sv]({{ site.baseurl }}{% link party.md %}) for half.  The noise will alert monsters in 3, 7, 8, 9 & 18.
